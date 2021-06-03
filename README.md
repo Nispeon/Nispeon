@@ -57,7 +57,7 @@ But basically that's the stuff you should hire me for.
 ..
 Well for now I don't have much in public, most of my stuff was either for school or just not good enough. 
 
-But I'll add the links here when the time comes, and it'll be pinned on my page anyways.
+But I'll add the links here when the time comes, and they'll be pinned on my page anyways.
 
 
 ## Contact me

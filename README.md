@@ -54,6 +54,8 @@ But basically that's the stuff you should hire me for.
 
 [LaMetric - Bitpanda](https://github.com/pgrimaud/lametric-bitpanda): App to follow your Bitpanda wallets on an LaMetric connected clock 
 
+[LaMetric - Binance](https://github.com/pgrimaud/lametric-binance): App to follow your Binance wallets on an LaMetric connected clock 
+
 ..
 Well for now I don't have much in public, most of my stuff was either for school or just not good enough. 
 
@@ -62,9 +64,9 @@ But I'll add the links here when the time comes, and they'll be pinned on my pag
 
 ## Contact me
 
-📧 Personal email for projects : Nisouc@outlook.com
+📧  Personal email for projects : Nisouc@outlook.com
 
-📧 Professional email for serious projects or hiring: Juliencousinalliot@outlook.com
+📧  Professional email for serious projects or hiring: Juliencousinalliot@outlook.com
 
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[My LinkedIn](https://www.linkedin.com/in/julien-cousin-alliot/)
 

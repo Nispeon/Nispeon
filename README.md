@@ -36,7 +36,7 @@ And a lot about project management, but this is another topic.
 ### Stuff I've seen more of outside of school:
 <img src="https://user-images.githubusercontent.com/37938250/120557894-e53cab00-c3fe-11eb-8fbb-23e5d85414f0.png" alt="Javascript" align="left" height="50"><img src="https://user-images.githubusercontent.com/37938250/120558029-203ede80-c3ff-11eb-96f0-586f1b452063.png" alt="Shopify" align="left" height="50"><img src="https://user-images.githubusercontent.com/37938250/120556978-89bded80-c3fd-11eb-812e-8868f1213ceb.png" alt="Adobe XD" align="left" height="50"><img src="https://user-images.githubusercontent.com/37938250/120559211-ecfd4f00-c400-11eb-8f88-38c2c914e817.png" alt="MySQL" style="margin:10px" height="50">
 
-I mean, I've seen JS at school too, but I've been using it outside of it for private projects.
+I've seen most of these at school too, but I've been using 'em outside of it for private projects so I've got more than the basics.
 
 ### The things I'm the best at 😎:
 <img src="https://user-images.githubusercontent.com/37938250/120558538-e91cfd00-c3ff-11eb-9eff-b00f4281ef68.jpg" alt="Symfony" align="left" height="50"><img src="https://user-images.githubusercontent.com/37938250/120558576-f89c4600-c3ff-11eb-918d-30e2ab27bd01.png" alt="Laravel" align="left" height="50"><img src="https://user-images.githubusercontent.com/37938250/120558940-7bbd9c00-c400-11eb-9d86-5bc7d30b622a.png" alt="Adobe XD" height="50">

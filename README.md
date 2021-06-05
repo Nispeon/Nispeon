@@ -65,11 +65,11 @@ But I'll add the links here when the time comes, and they'll be pinned on my pag
 
 ## Contact me
 
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[@nispeon](https://twitter.com/nispeon)
+<img alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[ @nispeon](https://twitter.com/nispeon)
 
 📧  Personal email for projects : Nisouc@outlook.com
 
 📧  Professional email for serious projects or hiring: Juliencousinalliot@outlook.com
 
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[LinkedIn](https://www.linkedin.com/in/julien-cousin-alliot/)
+<img  alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[ LinkedIn](https://www.linkedin.com/in/julien-cousin-alliot/)
 

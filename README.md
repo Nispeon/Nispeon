@@ -15,7 +15,7 @@ But enough with the text, let's make this look better:
 - 🍃 Not very knowledgeable yet but eager to learn
 - 🐱 Random cat emoji
 - 🌱 Learning more about PHP everyday, I'm kinda making it my main thing
-- ⚙ Currently working on a big Symfony project with [@pgrimaud](https://github.com/pgrimaud)
+- ⚙ Just released a [big Symfony project](https://github.com/pgrimaud/git-stars) with [@pgrimaud](https://github.com/pgrimaud)
 - 📍 Current objective : Getting an internship for my 3rd year of college by September 2021 to get some hands-on experience in programming
 
 ..
@@ -57,10 +57,11 @@ But basically that's the stuff you should hire me for.
 
 [LaMetric - Binance](https://github.com/pgrimaud/lametric-binance): App to follow your Binance wallets on an LaMetric connected clock 
 
-..
-Well for now I don't have much in public, most of my stuff was either for school or just not good enough. 
+- June 2021: 
 
-But I'll add the links here when the time comes, and they'll be pinned on my page anyways.
+[Git Stars](https://github.com/pgrimaud/git-stars): Website made with Symfony and a LOT of API calls, where you can check your github rankings and those of every other user, using the number of stars they have on their public repositories.
+
+.. And many more in the future!
 
 
 ## Contact me

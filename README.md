@@ -73,3 +73,6 @@ But I'll add the links here when the time comes, and they'll be pinned on my pag
 
 <img  alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[ LinkedIn](https://www.linkedin.com/in/julien-cousin-alliot/)
 
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=nispeon.nispeon" alt="visitor badge"/>
+</p>

@@ -5,7 +5,7 @@ Welcome aboard! The name's Julien, or Nispeon if you want to be friends, and thi
 ---
 ## Who am I ?
 
-A student in web developpement first of all, in my (almost) third year of college at the [IIM Digital School](https://www.iim.fr)💻
+A student in web development first of all, in my (almost) third year of college at the [IIM Digital School](https://www.iim.fr)💻
 
 I'm working on getting a web project management diploma, but I'm most interested in back-end developping (mainly in PHP and its frameworks).
 

@@ -61,6 +61,10 @@ But basically that's the stuff you should hire me for.
 
 [Git Stars](https://github.com/pgrimaud/git-stars): Website made with Symfony and a LOT of API calls, where you can check your github rankings and those of every other user, using the number of stars they have on their public repositories.
 
+- July 2021
+
+[Discord-attachment-saver](https://github.com/Nispeon/discord-attachment-saver) : A Discord bot (in TS this time and not PHP) to save all the attachments sent in a channel (it's not done and it will be enhanced in the future)
+
 .. And many more in the future!
 
 

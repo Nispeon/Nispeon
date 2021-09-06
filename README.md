@@ -16,7 +16,7 @@ But enough with the text, let's make this look better:
 - 🐱 Random cat emoji
 - 🌱 Learning more about PHP everyday, I'm kinda making it my main thing
 - ⚙ Just released a [big Symfony project](https://github.com/pgrimaud/git-stars) with [@pgrimaud](https://github.com/pgrimaud)
-- 📍 Current objective : Getting an internship for my 3rd year of college by September 2021 to get some hands-on experience in programming
+- 📍 Current objective : Getting as much experience as possible and conquering the world with PHP
 
 ..
 Oh and I'm based in Paris, I figured I should point it out with this being written in english and all 👃

@@ -11,7 +11,7 @@ I'm working on getting a web project management diploma, but I'm most interested
 
 But enough with the text, let's make this look better:
 
-- 👯 Fun to hang with (biased opinion) but shy
+- 👯 Fun to hang with (biased opinion) but very shy at first
 - 🍃 Not very knowledgeable yet but eager to learn
 - 🐱 Random cat emoji
 - 🌱 Learning more about PHP everyday, I'm kinda making it my main thing

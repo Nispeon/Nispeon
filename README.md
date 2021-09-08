@@ -1,6 +1,6 @@
 # Yo 😎 
 
-Welcome aboard! The name's Julien, or Nispeon if you want to be friends, and this is my GitHub page ✨
+Welcome aboard! The name's Julien, or Nispeon if you want to be chums like that, and this is my GitHub page ✨
 
 ---
 ## Who am I ?

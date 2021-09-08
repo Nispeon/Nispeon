@@ -24,9 +24,9 @@ Oh and I'm based in Paris, I figured I should point it out with this being writt
 
 ## What can I do ?
 
-Well not so much yet, but hold on! 
+Well not that much yet, but hold on! 
 
-I've been seeing tons of stuff which I've more or less grasped recently, and I know tons of stuff, look:
+I've been seeing tons of stuff which I've more or less grasped recently, and I know a lot of things, look:
 
 ### What I've learned the basics of at school:
 <img src="https://user-images.githubusercontent.com/37938250/120556236-82e2ab00-c3fc-11eb-9629-8f149613ca09.png" alt="VueJS" align="left" height="50"><img src="https://user-images.githubusercontent.com/37938250/120556625-06040100-c3fd-11eb-8701-8ccff601b109.jpg" alt="Swift" align="left" height="50"><img src="https://user-images.githubusercontent.com/37938250/120556765-3d72ad80-c3fd-11eb-8cbd-e6906c8fa806.png" alt="Wordpress" align="left" height="50"><img src="https://user-images.githubusercontent.com/37938250/120556937-8165b280-c3fd-11eb-8de3-8cabb34641f8.jpg" alt="Figma" align="left" height="50"><img src="https://user-images.githubusercontent.com/37938250/120557319-051f9f00-c3fe-11eb-97d3-72163ebf776c.png" alt="Sass" align="left" height="50"><img src="https://user-images.githubusercontent.com/37938250/120557376-18cb0580-c3fe-11eb-84d2-ef510cd541aa.png" alt="JQuery" align="left" height="50"><img src="https://user-images.githubusercontent.com/37938250/120557404-241e3100-c3fe-11eb-88fd-b7d45597cc51.png" alt="FileZilla" style="margin:10px" height="50">

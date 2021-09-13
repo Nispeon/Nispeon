@@ -17,6 +17,7 @@ But enough with the text, let's make this look better:
 - 🌱 Learning more about PHP everyday, I'm kinda making it my main thing
 - ⚙ Just released a [big Symfony project](https://github.com/pgrimaud/git-stars) with [@pgrimaud](https://github.com/pgrimaud)
 - 📍 Current objective : Getting as much experience as possible and conquering the world with PHP
+- 🎉 Now working at @JoliCode
 
 ..
 Oh and I'm based in Paris, I figured I should point it out with this being written in english and all 👃

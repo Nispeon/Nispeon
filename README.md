@@ -72,11 +72,7 @@ But basically that's the stuff you should hire me for.
 
 <img alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[ @nispeon](https://twitter.com/nispeon)
 
-📧  Personal email for fun projects : Nisouc@outlook.com
-
-📧  Professional email for serious projects or hiring: julien.cousinalliot@gmail.com
-
-<img  alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[ LinkedIn](https://www.linkedin.com/in/julien-cousin-alliot/)
+I'd give you more ways of contacting me but I'm absolutely not looking for a job right now 😝
 
 
 <p align="center">

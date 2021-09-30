@@ -22,10 +22,10 @@ But enough with the text, let's make this look better:
 ..
 Oh and I'm based in Paris, I figured I should point it out with this being written in english and all 👃
 
-
 ## What can I do ?
 
-Well not that much yet, but hold on! 
+<details>
+  <summary>Well not that much yet, but you can click here if you're interested</summary>
 
 I've been seeing tons of stuff which I've more or less grasped recently, and I know a lot of things, look:
 
@@ -47,6 +47,7 @@ Oh and of course I have no problem with HTML & CSS but that's barely worth menti
 
 But basically that's the stuff you should hire me for.
 
+</details>
 
 ## My projects
 

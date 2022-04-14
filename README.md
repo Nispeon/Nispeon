@@ -7,7 +7,7 @@ Welcome aboard! The name's Julien, or Nispeon if you want to be chums like that,
 
 A student in web development first of all, in my third year of college at the [IIM Digital School](https://www.iim.fr)💻
 
-I'm working on getting a web project management diploma, but I'm most interested in back-end developping (mainly in PHP and its frameworks).
+I'm working on getting a web project management diploma, but I'm mostly interested in back-end developping (PHP & Symfony ❤️).
 
 But enough with the text, let's make this look better:
 

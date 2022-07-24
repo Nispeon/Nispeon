@@ -80,7 +80,9 @@ I've mainly focused on private work since then, but I'll definitely be back to p
 
 <img alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[ @nispeon](https://twitter.com/nispeon)
 
-I'd give you more ways of contacting me but I'm absolutely not looking for a job right now 😝
+<img alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[ Julien Cousin-Alliot](https://www.linkedin.com/in/julien-cousin-alliot/)
+
+I'm giving you these, but know that I'm absolutely not looking for a job right now 😝
 
 
 <p align="center">

@@ -1,6 +1,6 @@
 # Yo
 
-Long README's annoy me so I moved mine away to [here](https://github.com/Nispeon/Nispeon/blob/main/README.md.old), check it out if yo'ure THAT interested 🙏🏼
+Long README's annoy me so I moved mine over[there](https://github.com/Nispeon/Nispeon/blob/main/README.md.old), feel free to check it out if you're THAT interested 🙏🏼
 
 ## Contact me
 

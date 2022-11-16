@@ -1,80 +1,6 @@
-# Yo 😎 
+# Yo
 
-Welcome aboard! The name's Julien, or Nispeon if you want to be chums like that, and this is my GitHub page ✨
-
----
-## Who am I ?
-
-A student in web development first of all, in my third year of college at the [IIM Digital School](https://www.iim.fr)💻
-
-I'm working on getting a web project management diploma, but I'm mostly interested in back-end developping (PHP & Symfony ❤️).
-
-But enough with the text, let's make this look better:
-
-- 👯 Fun to hang with (biased opinion) but very shy at first
-- 🍃 Not very knowledgeable yet but eager to learn
-- 🐱 Random cat emoji
-- 🌱 Learning more about PHP everyday, I'm kinda making it my main thing
-- ⚙ Released a [big Symfony project](https://github.com/pgrimaud/git-stars) with [@pgrimaud](https://github.com/pgrimaud)
-- 📍 Current objective : Getting as much experience as possible and conquering the world with PHP
-- 🎉 Now working at [@jolicode](https://github.com/jolicode)
-
-..
-Oh and I'm based in Paris, I figured I should point it out with this being written in english and all 👃
-
-## What can I do ?
-
-<details>
-  <summary>Well not that much yet, but you can click here if you're interested</summary>
-
-I've been seeing tons of stuff which I've more or less grasped recently, and I know a lot of things, look:
-
-### What I've learned the basics of:
-<br>
-<img src="https://user-images.githubusercontent.com/37938250/120556236-82e2ab00-c3fc-11eb-9629-8f149613ca09.png" alt="VueJS" align="left" height="50"><img src="https://user-images.githubusercontent.com/37938250/120556765-3d72ad80-c3fd-11eb-8cbd-e6906c8fa806.png" alt="Wordpress" align="left" height="50"><img src="https://user-images.githubusercontent.com/37938250/120557376-18cb0580-c3fe-11eb-84d2-ef510cd541aa.png" alt="JQuery" align="left" height="50"><img src="https://user-images.githubusercontent.com/37938250/120558029-203ede80-c3ff-11eb-96f0-586f1b452063.png" alt="Shopify" align="left" height="50">
-<br>
-And a lot about project management, but this is another topic.
-
-### Stuff I'm okay at:
-<br>
-<img src="https://user-images.githubusercontent.com/37938250/120557894-e53cab00-c3fe-11eb-8fbb-23e5d85414f0.png" alt="Javascript" align="left" height="50"><img src="https://user-images.githubusercontent.com/37938250/120557319-051f9f00-c3fe-11eb-97d3-72163ebf776c.png" alt="Sass" align="left" height="50"><img src="https://user-images.githubusercontent.com/37938250/120556978-89bded80-c3fd-11eb-812e-8868f1213ceb.png" alt="Adobe XD" align="left" height="50"><img src="https://user-images.githubusercontent.com/37938250/120556937-8165b280-c3fd-11eb-8de3-8cabb34641f8.jpg" alt="Figma" align="left" height="50"><img src="https://user-images.githubusercontent.com/37938250/120559211-ecfd4f00-c400-11eb-8f88-38c2c914e817.png" alt="MySQL" style="margin:10px" height="50"><img src="https://user-images.githubusercontent.com/37938250/120558576-f89c4600-c3ff-11eb-918d-30e2ab27bd01.png" alt="Laravel" align="left" height="50"><img src="https://user-images.githubusercontent.com/37938250/120558940-7bbd9c00-c400-11eb-9d86-5bc7d30b622a.png" alt="PHP" height="50">
-<br>
-I've seen most of these at school too, but I've been using 'em outside of it for private projects so I've got more than the basics.
-
-### The things I'm the best at 😎:
-<br>
-<img src="https://user-images.githubusercontent.com/37938250/120558538-e91cfd00-c3ff-11eb-9eff-b00f4281ef68.jpg" alt="Symfony" align="left" height="50"><img src="https://user-images.githubusercontent.com/37938250/133062027-7a227ba2-3575-4b33-98e7-318fe4fc3aeb.png" alt="Docker" style="margin:10px" height="50"><br>
-<br>
-But basically that's the stuff you should hire me for.
-
-</details>
-
-## My public projects
-
-- May 2021: 
-
-[LaMetric - Stocks](https://github.com/pgrimaud/lametric-stocks): App to follow stock prices on an LaMetric connected clock
-
-[LaMetric - Bitpanda](https://github.com/pgrimaud/lametric-bitpanda): App to follow your Bitpanda wallets on an LaMetric connected clock 
-
-[LaMetric - Binance](https://github.com/pgrimaud/lametric-binance): App to follow your Binance wallets on an LaMetric connected clock 
-
-- June 2021: 
-
-[Git Stars](https://github.com/pgrimaud/git-stars): Website made with Symfony and a LOT of API calls, where you can check your github rankings and those of every other user, using the number of stars they have on their public repositories.
-
-- July 2021:
-
-[Discord-attachment-saver](https://github.com/Nispeon/discord-attachment-saver) : A Discord bot (in TS this time and not PHP) to save all the attachments sent in a channel (it's not done and it will be enhanced in the future)
-
-- September 2021:
-
-[Secret-Santa](https://github.com/jolicode/secret-santa) : A Secret-Santa app developped by [@jolicode](https://github.com/jolicode), on which I've updated a ton of stuff and added cool features.
-
-.. And many more in the future!
-
-I've mainly focused on private work since then, but I'll definitely be back to public work!
-
+Long README's annoy me so I moved mine over [there](https://github.com/Nispeon/Nispeon/blob/main/README.md.old), feel free to check it out if you're THAT interested 🙏🏼
 
 ## Contact me
 
@@ -82,7 +8,7 @@ I've mainly focused on private work since then, but I'll definitely be back to p
 
 <img alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[ Julien Cousin-Alliot](https://www.linkedin.com/in/julien-cousin-alliot/)
 
-I'm giving you these, but know that I'm absolutely not looking for a job right now 😝
+I'm still giving you these, but know that I'm absolutely not looking for a job right now 🤞🏼
 
 
 <p align="center">

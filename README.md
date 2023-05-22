@@ -15,6 +15,4 @@ I'm still giving you these, but know that I'm absolutely not looking for a job r
   <img src="https://git-stars.com/share/embed/nispeon.svg">
 </p>
   
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=nispeon.nispeon" alt="visitor badge"/>
-</p>
+![](https://komarev.com/ghpvc/?username=Nispeon&color=green)

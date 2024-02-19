@@ -10,9 +10,8 @@ Long READMEs annoy me so I moved mine over [there](https://github.com/Nispeon/Ni
 
 I'm still giving you these, but know that I'm absolutely not looking for a job right now 🤞🏼
 
-
-<p align="center">
-  <img src="https://git-stars.com/share/embed/nispeon.svg">
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nispeon&theme=dracula" />
+</a>
   
 ![](https://komarev.com/ghpvc/?username=Nispeon&color=green)

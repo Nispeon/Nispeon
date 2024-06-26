@@ -1,6 +1,6 @@
 # Yo
 
-Long READMEs annoy me so I moved mine over [there](https://github.com/Nispeon/Nispeon/tree/main/old), feel free to check it out if you're THAT interested 🙏🏼
+Long READMEs annoy me so I moved mine over [there](https://github.com/Nispeon/Nispeon/tree/main/old), feel free to check it out if you're THAT interested but know that is is VERY outdated haha 🙏🏼
 
 ## Contact me
 
